@@ -1,0 +1,29 @@
+[Default Applications]
+x-scheme-handler/http=userapp-IceCat-O4UZEY.desktop
+x-scheme-handler/https=userapp-IceCat-O4UZEY.desktop
+x-scheme-handler/ftp=userapp-IceCat-O4UZEY.desktop
+x-scheme-handler/chrome=userapp-IceCat-O4UZEY.desktop
+text/html=userapp-IceCat-O4UZEY.desktop
+application/x-extension-htm=userapp-IceCat-O4UZEY.desktop
+application/x-extension-html=userapp-IceCat-O4UZEY.desktop
+application/x-extension-shtml=userapp-IceCat-O4UZEY.desktop
+application/xhtml+xml=userapp-IceCat-O4UZEY.desktop
+application/x-extension-xhtml=userapp-IceCat-O4UZEY.desktop
+application/x-extension-xht=userapp-IceCat-O4UZEY.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-J0GUEY.desktop
+message/rfc822=userapp-Thunderbird-J0GUEY.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+x-scheme-handler/https=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+x-scheme-handler/ftp=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+x-scheme-handler/chrome=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+text/html=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+application/x-extension-htm=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+application/x-extension-html=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+application/x-extension-shtml=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+application/xhtml+xml=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+application/x-extension-xhtml=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+application/x-extension-xht=userapp-IceCat-R1ZHEY.desktop;userapp-IceCat-DRMWEY.desktop;userapp-IceCat-O4UZEY.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-J0GUEY.desktop;
+message/rfc822=userapp-Thunderbird-J0GUEY.desktop;
